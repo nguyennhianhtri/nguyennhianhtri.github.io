@@ -18,5 +18,5 @@ I am working towards starting my tech company. So I'm always on the lookout for 
 
 ## Some Resources On This Blog That Would Help You Know More About Me
 
-* [My Operating Manual](/posts/2020-09-12-tris-operating-manual)
+* [My Operating Manual](/2020-09-12-tris-operating-manual)
 * [My CV] ()

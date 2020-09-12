@@ -84,6 +84,3 @@ tags: [about me,life]
 * I appreciate people who communicate openly and honestly with me. This does not mean that I usually appreciate people being “brutally honest”. The truth, no matter how unpleasant, can always be communicated tactfully.
 * Do give me some short notice (0.5-1h) before you break bad news to me. But try not to give me long notice because I would spend the whole time agonizing about what the news is.
 * I really dislike the “if you cannot convince them, confuse them” tactic. I am good at detecting bullshit, and will tune out once I start hearing bullshit.
-
-
-## Can't Get Enough? Reach Out To Me via [My Personal Email](mailto:nguyennhianhtri@gmail.com) and Let's Get Connected.
