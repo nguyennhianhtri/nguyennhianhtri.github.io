@@ -382,7 +382,7 @@ footer {
   {% if site.footer-img %}
     background-image: url({{ site.footer-img | relative_url }});
     background-attachment: fixed;
-    background-size: contain;
+    background-size: cover;
   {% endif %}
 }
 
