@@ -58,7 +58,7 @@ share-links-active:
 link-tags: true
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 100
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
