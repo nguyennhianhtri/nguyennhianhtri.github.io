@@ -10,10 +10,10 @@ author: Tri Nguyen
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Posts:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -52,7 +52,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: Can't Get Enough? Reach Out To Me via [My Personal Email](mailto:nguyennhianhtri@gmail.com) and Let's Get Connected.
+# url-pretty: 
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -61,7 +61,7 @@ link-tags: true
 excerpt_length: 100
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "tringuyen,nguyennhianhtri,tri"
 
 # --- Colours / background image --- #
 
@@ -83,7 +83,7 @@ footer-link-col: "#659DBD"
 
 # navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/background-mountain.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"

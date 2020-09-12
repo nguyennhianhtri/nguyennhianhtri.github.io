@@ -16,4 +16,4 @@ I am working towards starting my tech company. So I'm always on the lookout for 
 ### Want To Know More?
 
 * [My Operating Manual](/2020-09-12-tris-operating-manual)
-* [My CV] (/docs/curriculum-vitae)
+* [My CV] (/docs/curriculum-vitae.pdf)
