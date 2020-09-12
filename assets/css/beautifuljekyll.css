@@ -19,8 +19,8 @@ body {
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
   background-attachment: scroll;
-  background-size: cover;
-  background-position: center bottom;
+  background-size: auto 100%;
+  background-position: center;
   {% endif %}
 }
 p {
@@ -383,8 +383,8 @@ footer {
   {% if site.footer-img %}
     background-image: url({{ site.footer-img | relative_url }});
     background-attachment: fixed;
-    background-size: cover;
-    background-position: center bottom;
+    background-size: auto 100%;
+    background-position: center;
   {% endif %}
 }
 
