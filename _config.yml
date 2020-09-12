@@ -80,7 +80,7 @@ footer-link-col: "#FFFFFF"
 # instead of colour
 
 # navbar-img: "/assets/img/bgimage.png"
-footer-img: "/assets/img/footer.png"
+footer-img: "/assets/img/footer_dark.png"
 page-img: "/assets/img/background-mountain.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
