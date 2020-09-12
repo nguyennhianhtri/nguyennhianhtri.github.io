@@ -19,8 +19,9 @@ body {
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
   background-attachment: scroll;
+  background-repeat: no-repeat;
   background-size: auto 100%;
-  background-position: center;
+  background-position: center center;
   {% endif %}
 }
 p {
@@ -382,9 +383,10 @@ footer {
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
   {% if site.footer-img %}
     background-image: url({{ site.footer-img | relative_url }});
-    background-attachment: fixed;
-    background-size: auto 100%;
-    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    background-position: center bottom;
+    background-repeat: no-repeat;
   {% endif %}
 }
 
