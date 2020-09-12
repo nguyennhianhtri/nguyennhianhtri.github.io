@@ -384,7 +384,7 @@ footer {
   {% if site.footer-img %}
     background-image: url({{ site.footer-img | relative_url }});
     background-attachment: scroll;
-    background-size: contain;
+    background-size: cover;
     background-position: right bottom;
     background-repeat: no-repeat;
   {% endif %}
