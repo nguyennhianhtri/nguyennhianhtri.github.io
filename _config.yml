@@ -10,10 +10,8 @@ author: Tri Nguyen
 
 navbar-links:
   About Me: "aboutme"
-  Posts:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Projects: "https://deanattali.com"
+  Posts: "feed"
+  Projects: ""
 
 # --- Logo --- #
 
@@ -172,7 +170,7 @@ defaults:
       layout: "post"
       comments: true # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-      readtime: false # add estimated reading time on all blog posts
+      readtime: true # add estimated reading time on all blog posts
   - scope:
       path: "" # all files
     values:
@@ -188,7 +186,6 @@ exclude:
   - LICENSE
   - README.md
   - screenshot.png
-  - docs/
 
 plugins:
   - jekyll-paginate
