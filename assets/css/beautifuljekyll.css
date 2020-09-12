@@ -383,7 +383,6 @@ footer {
     background-image: url({{ site.footer-img | relative_url }});
     background-attachment: fixed;
     background-size: contain;
-    background-position: center bottom;
   {% endif %}
 }
 
