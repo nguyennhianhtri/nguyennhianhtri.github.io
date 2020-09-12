@@ -20,6 +20,7 @@ body {
   background-image: url({{ site.page-img | relative_url }});
   background-attachment: scroll;
   background-size: cover;
+  background-position: center bottom;
   {% endif %}
 }
 p {
@@ -383,6 +384,7 @@ footer {
     background-image: url({{ site.footer-img | relative_url }});
     background-attachment: fixed;
     background-size: cover;
+    background-position: center bottom;
   {% endif %}
 }
 
