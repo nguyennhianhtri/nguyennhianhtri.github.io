@@ -9,7 +9,7 @@ author: Tri Nguyen
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home.: "index:
+  Home.: "index"
   About Me.: "aboutme"
   Tags.: "tags"
   Projects.: ""
