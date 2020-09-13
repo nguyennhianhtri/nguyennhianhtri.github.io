@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About Me.
 subtitle: "What you think, you become. What you feel, you attract. What you imagine, you create."
 ---
 
